@@ -1,4 +1,4 @@
-###  ITMS 528 Database Security Assignments
+#  ITMS 528 Database Security Assignments
 
 ## Overview
 Welcome to the ITMS 528 Database Security Assignments repository! This repository contains a collection of assignments completed during the ITMS 528 Database Security course at the Illinois Institute of Technology. Each assignment focuses on various aspects of database security, access controls, cybersecurity fundamentals, and practical implementations.
